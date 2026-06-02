@@ -1,17 +1,20 @@
 # From Conversations to Insights: An Executive Business Intelligence & Analytics Suite for AI Chatbot Performance, Trust, and Customer Experience Across 3.5 Years
 
-
+<br>
 
 > *Transforming 30,000 chatbot interactions into strategic intelligence — uncovering what works, what fails, where trust breaks down, what customers truly feel, and how customer experience can be improved.*
 
----
+<br>
+<br>
 
 A multi-part analytics project built on 30,000 real AI chatbot interactions (2023–2026). Through executive dashboards, sentiment analysis, escalation mapping, and multilingual performance tracking, the project provides decision-makers with actionable insights to evaluate chatbot performance, customer trust, and user experience while identifying opportunities to optimize AI-powered customer support and customer experience.
 
----
+<br>
+<br>
 
-<br>
-<br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bee186f1-0bd8-475e-b0fe-ff041c6fedbd" width="200">
+</p>
 
 ## A Glimpse of the Challenge
 
