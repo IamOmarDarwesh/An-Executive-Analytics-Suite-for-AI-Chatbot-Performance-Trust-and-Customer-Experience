@@ -46,7 +46,7 @@ This is not a metrics report. It is an **evidence-driven decision framework** fo
 Each dashboard is designed to answer a specific strategic question — then connect that answer to an action.
 
 ```
-Raw Conversations  →  Cleaned Standardized Data  →  Interactive Dashboards  →  Strategic Recommendations
+Raw Conversations  >>>  Cleaned Standardized Data  >>>  Interactive Dashboards  >>>  Strategic Recommendations
 ```
 
 The five parts build progressively: from high-level executive KPIs down to granular emotional hotspot mapping across language and query type combinations.
@@ -128,7 +128,7 @@ Each stage builds upon previous findings, creating a complete picture of chatbot
 - Resolution status & escalation status
 - Response length
 - Interaction year & quarter
-- Sentiment category (Very Positive → Very Negative)
+- Sentiment category (Very Positive >>> Very Negative)
 
 ---
 
@@ -147,7 +147,13 @@ Every visualization follows a deliberate hierarchy:
 4. **Heatmaps** — pinpoint exact interaction segments driving outcomes
 5. **Interactive filters** — enable self-directed exploration without overwhelming
 
-The escalation and sentiment stories were specifically designed as **three-stage analytical journeys**: broad → targeted → granular, so stakeholders can move from executive summary to operational detail in a single session.
+The escalation and sentiment stories were specifically designed as **three-stage analytical journeys**: 
+
+
+broad >>> targeted >>> granular
+
+
+so stakeholders can move from executive summary to operational detail in a single session.
 
 ---
 
