@@ -7,7 +7,7 @@
 <br>
 <br>
 
-A multi-part analytics project built on 30,000 real AI chatbot interactions (2023-2026). Through executive dashboards, sentiment analysis, escalation mapping, and multilingual performance tracking, the project provides decision-makers with actionable insights to evaluate chatbot performance, customer trust, and user experience while identifying opportunities to optimize AI-powered customer support and customer experience.
+A multi-part analytics project built on 30,000 real AI chatbot interactions (2023 - 2026). Through executive dashboards, sentiment analysis, escalation mapping, and multilingual performance tracking, the project provides decision-makers with actionable insights to evaluate chatbot performance, customer trust, and user experience while identifying opportunities to optimize AI-powered customer support and customer experience.
 
 <br>
 <br>
