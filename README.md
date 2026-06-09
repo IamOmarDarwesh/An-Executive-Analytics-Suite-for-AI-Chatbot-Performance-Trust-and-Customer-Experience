@@ -223,7 +223,7 @@ Chatbot failures are not random. They concentrate in specific language-query-ver
 <br>
 <br>
 
-## About This Project
+## Final Thoughts
 
 This project was built to demonstrate how data visualization can transform raw conversational data into a genuine strategic asset.
 
