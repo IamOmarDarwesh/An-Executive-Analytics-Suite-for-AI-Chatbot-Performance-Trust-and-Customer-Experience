@@ -2,7 +2,7 @@
 
 <br>
 
-> *Transforming 30,000 chatbot interactions into strategic intelligence — uncovering what works, what fails, where trust breaks down, what customers truly feel, and how customer experience can be improved.*
+> *Transforming 30,000 chatbot interactions into strategic intelligence - uncovering what works, what fails, where trust breaks down, what customers truly feel, and how customer experience can be improved.*
 
 <br>
 <br>
@@ -18,13 +18,13 @@ A multi-part analytics project built on 30,000 real AI chatbot interactions (202
 
 ## A Glimpse of the Challenge
 
-AI chatbots are no longer a future ambition — they are the frontline of customer experience today.
+AI chatbots are no longer a future ambition - they are the frontline of customer experience today.
 
 But deploying a chatbot is only the beginning. The harder question is whether it actually delivers value:
 
 - Is it resolving customer issues effectively?
 - Are users satisfied with the experience?
-- Which chatbot versions perform best — and why?
+- Which chatbot versions perform best - and why?
 - Where are customers still struggling, and how do they *feel* about it?
 
 - Which conversations require human intervention?
@@ -43,7 +43,7 @@ This project answers all of those questions through a five-part, end-to-end anal
 
 This is not a metrics report. It is an **evidence-driven decision framework** for AI customer support teams.
 
-Each dashboard is designed to answer a specific strategic question — then connect that answer to an action.
+Each dashboard is designed to answer a specific strategic question - then connect that answer to an action.
 
 ```
 Raw Conversations  >>>  Cleaned Standardized Data  >>>  Interactive Dashboards  >>>  Strategic Recommendations
@@ -84,16 +84,16 @@ Each stage builds upon previous findings, creating a complete picture of chatbot
 ## A Part of Key Findings
 
 ### Operational Performance
-- **85% resolution rate** — the chatbot successfully handles most interactions without human escalation
-- **10% escalation rate** — a low but meaningful signal for optimization
+- **85% resolution rate** - the chatbot successfully handles most interactions without human escalation
+- **10% escalation rate** - a low but meaningful signal for optimization
 - **5-second average response time** with ~5-minute average session duration
-- **Seasonal dip every February** — a recurring, predictable pattern in user engagement
+- **Seasonal dip every February** - a recurring, predictable pattern in user engagement
 
 ### Where the Chatbot Struggles
 - **General queries** generate the highest escalation volume despite being the most common interaction type
 - **Technical support** conversations consistently produce the lowest satisfaction scores
 - **German and French** language interactions exhibit the highest escalation and unresolved rates
-- One critical combination — *Others + French + v1.0* — recorded the highest unresolved interaction rate in the dataset
+- One critical combination - *Others + French + v1.0* - recorded the highest unresolved interaction rate in the dataset
 
 ### Where the Chatbot Excels
 - **v2.0 in German "Other" queries**: zero escalations, zero unresolved conversations
@@ -101,7 +101,7 @@ Each stage builds upon previous findings, creating a complete picture of chatbot
 - **German Feedback interactions**: highest average sentiment score across all language-query combinations
 
 ### The Sentiment Story
-- Customer satisfaction averages **3.15 out of 5** — room for meaningful improvement
+- Customer satisfaction averages **3.15 out of 5** - room for meaningful improvement
 - **v1.1 outperforms all other versions** in sentiment, including newer releases
 - Responses of **25–50 words** generate the highest sentiment; under 25 words is the only negative-sentiment category
 - Sentiment **peaked in Q1 2024**, dropped sharply in Q2 2024, and hit its lowest point in **Q4 2025**
@@ -116,7 +116,7 @@ Each stage builds upon previous findings, creating a complete picture of chatbot
 
 | Layer | Components | Details |
 |------|------------|---------|
-| **Data Source** | Chatbot interactions dataset | 30,000 interactions collected from Jan 2023 – Jun 2026 
+| **Data Source** | Chatbot interactions dataset | 30,000 interactions collected from Jan 2023 - Jun 2026 
 | **Transformation Layer** | Data processing  | Data standardization, cleaning & preprocessing, aggregation, and segmentation |
 | **Visualization Layer** | Tableau dashboards | KPI cards, interactive filters, heatmaps, trend analysis charts, and drill-down insights |
 
@@ -141,11 +141,11 @@ Each dashboard was built with a clear principle: **executives need clarity, anal
 
 Every visualization follows a deliberate hierarchy:
 
-1. **KPI cards** — surface critical numbers immediately
-2. **Trend charts** — reveal patterns over time
-3. **Comparative visuals** — expose performance gaps across dimensions
-4. **Heatmaps** — pinpoint exact interaction segments driving outcomes
-5. **Interactive filters** — enable self-directed exploration without overwhelming
+1. **KPI cards** - surface critical numbers immediately
+2. **Trend charts** - reveal patterns over time
+3. **Comparative visuals** - expose performance gaps across dimensions
+4. **Heatmaps** - pinpoint exact interaction segments driving outcomes
+5. **Interactive filters** - enable self-directed exploration without overwhelming
 
 The escalation and sentiment stories were specifically designed as **three-stage analytical journeys**: 
 
@@ -166,7 +166,7 @@ so stakeholders can move from executive summary to operational detail in a singl
 |----------|--------|----------------|
 | 🔴 High | Optimize technical support workflows | Lift satisfaction in the lowest-performing query category |
 | 🔴 High | Investigate Q4 2025 sentiment decline | Identify and address the root cause before it compounds |
-| 🟠 Medium | Reevaluate v2.0 and v2.1 conversational behavior | Newer ≠ better — benchmark against v1.1's sentiment model |
+| 🟠 Medium | Reevaluate v2.0 and v2.1 conversational behavior | Newer ≠ better - benchmark against v1.1's sentiment model |
 | 🟠 Medium | Strengthen German and French language models | Significant multilingual gap in escalation and resolution rates |
 | 🟡 Standard | Set response length targets (25–50 words) | Measurable sentiment improvement from a simple design change |
 | 🟡 Standard | Expand product inquiry knowledge coverage | Lowest sentiment query type, high business value conversations |
@@ -179,18 +179,28 @@ so stakeholders can move from executive summary to operational detail in a singl
 ## Some of Lessons Learned
 
 **1. Resolution ≠ Satisfaction**
+
+
 An 85% resolution rate is impressive. A 3.15/5 satisfaction score shows it is not enough. Customers care about *how* they were helped, not just *whether* they were helped.
 
 **2. Newer Is Not Always Better**
+
+
 v1.1 outperformed every subsequent release in sentiment. Each AI update must be validated against real emotional outcomes, not just technical benchmarks.
 
 **3. Aggregate Metrics Hide the Truth**
-The most actionable insights in this project came from *intersecting* dimensions — not from averages. A language that performs well overall can fail dramatically for a specific query type.
+
+
+The most actionable insights in this project came from *intersecting* dimensions - not from averages. A language that performs well overall can fail dramatically for a specific query type.
 
 **4. Sentiment Is a Leading Indicator**
+
+
 The Q4 2025 sentiment decline is exactly the kind of early warning signal that organizations miss when they rely solely on resolution rates and escalation counts. Sentiment trends should be monitored continuously, not reviewed annually.
 
 **5. Failures Follow Patterns**
+
+
 Chatbot failures are not random. They concentrate in specific language-query-version combinations. That means they are targetable, measurable, and fixable.
 
 ---
@@ -217,7 +227,7 @@ Chatbot failures are not random. They concentrate in specific language-query-ver
 
 This project was built to demonstrate how data visualization can transform raw conversational data into a genuine strategic asset.
 
-The five-part structure was intentional: each dashboard answers a different question, builds on the previous findings, and ends with a concrete set of next steps. The goal was never to present a collection of charts — it was to tell a coherent story about AI performance, customer experience, and where the highest-value improvements lie.
+The five-part structure was intentional: each dashboard answers a different question, builds on the previous findings, and ends with a concrete set of next steps. The goal was never to present a collection of charts - it was to tell a coherent story about AI performance, customer experience, and where the highest-value improvements lie.
 
 ---
 
